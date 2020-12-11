@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hacker-rank-tree-level-order-traversal", "hacker-rank-tree-level-order-traversal\hacker-rank-tree-level-order-traversal.csproj", "{D87CA7AF-4E9C-402F-8FD2-886ABF38FAC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87CA7AF-4E9C-402F-8FD2-886ABF38FAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87CA7AF-4E9C-402F-8FD2-886ABF38FAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87CA7AF-4E9C-402F-8FD2-886ABF38FAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87CA7AF-4E9C-402F-8FD2-886ABF38FAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC11A1B-DDEE-4236-AC84-B6B12260B656}
+	EndGlobalSection
+EndGlobal
